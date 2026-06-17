@@ -1,3 +1,15 @@
 body {
     background-color: lightyellow;
 }
+
+img {
+    width: 400px;
+}
+
+header {
+    background-color: rgb(140, 235, 194);
+}
+
+footer {
+    background-color: rgb(140, 235, 194);
+}
